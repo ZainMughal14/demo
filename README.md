@@ -1,4 +1,4 @@
 # demo
 this my first repositry
 <br>
-Author - Zain Mughal
+Author - (Zain Mughal Fayyaz)
